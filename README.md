@@ -1,6 +1,6 @@
 # TKA Modul 5 — Cloudsim dan Load Balancing
 
-**Question Source:** [Cloud Computing Practicum Module 4]([https://docs.google.com/document/d/1BELhOZZNuK7Y5WsFxK_uwBINmCrAcDb_lcNc4gwkrys/edit?tab=t.0](https://docs.google.com/document/d/1DZ1yEOJUnh68muG9g-kqsf85Um7wxdD5A-fxH-7b6-E/edit?tab=t.0))
+**Question Source:** [Cloud Computing Practicum Module 5](https://docs.google.com/document/d/1DZ1yEOJUnh68muG9g-kqsf85Um7wxdD5A-fxH-7b6-E/edit?tab=t.0)
 
 ## Group B08 Members
 
